@@ -1,0 +1,5 @@
+hub PH-support
+shortLabel PH-support
+longLabel PH-support
+genomesFile genomes.txt
+email smargasyuk@gmail.com

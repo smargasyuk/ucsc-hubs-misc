@@ -1,0 +1,32 @@
+
+track structs
+type bigBed
+bigDataUrl structs.bb
+itemRgb	on
+visibility 0
+shortLabel PrePH
+longLabel PrePH
+
+track GSE149493
+type bigBed
+bigDataUrl GSE149493.bb
+itemRgb	on
+visibility 0
+shortLabel PARIS2
+longLabel PARIS2 (GSE149493)
+
+track GSE166155
+type bigBed
+bigDataUrl GSE166155.bb
+itemRgb	on
+visibility 0
+shortLabel KARR-Seq
+longLabel KARR-Seq (GSE166155)
+
+track GSE190214
+type bigBed
+bigDataUrl GSE190214.bb
+itemRgb	on
+visibility 0
+shortLabel RIC-Seq
+longLabel RIC-Seq (GSE190214)
