@@ -1,9 +1,16 @@
-track structs
+track structs-all
 type bigBed 12 + 
-bigDataUrl structs.bb
-visibility full
+bigDataUrl structs-all.bb
+visibility dense
 shortLabel PrePH
-longLabel PrePH
+longLabel all PrePH structures
+
+track structs-supported
+type bigBed 12 + 
+bigDataUrl structs-supported.bb
+visibility full
+shortLabel PrePH-PL
+longLabel PrePH structures with proximity ligation support
 
 track GSE149493
 type bigBed 12 +
